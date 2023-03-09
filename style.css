@@ -59,13 +59,14 @@ button {
   font-size: 1.1rem;
   font-family: inherit;
   padding: 1.3rem;
+  submit: #0074D9;
 }
 
 button:hover {
-  background-color: #732d91;
+  background-color: #001f3f;
 }
 
 button:focus {
   outline: none;
-  background-color: #5e3370;
+  background-color: #001f3f;
 }
