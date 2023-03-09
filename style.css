@@ -59,7 +59,6 @@ button {
   font-size: 1.1rem;
   font-family: inherit;
   padding: 1.3rem;
-  submit: #0074D9;
 }
 
 button:hover {
@@ -69,4 +68,8 @@ button:hover {
 button:focus {
   outline: none;
   background-color: #001f3f;
+}
+
+button:submit {
+  background-color: #0074D9;
 }
