@@ -24,6 +24,21 @@ const questions = [
     d: "none of the above",
     correct: "b",
   },
+  {
+  question: "What is the oldest programming language?",
+    a: "JavaScript",
+    b: "Fortran",
+    c: "Python",
+    d: "Kotlin",
+    correct: "b",
+  },
+  {
+  question: "What programming language is the easiest to learn in 2023?",
+    a: "Notepad++",
+    b: "CSS",
+    c: "Python",
+    d: "HTML",
+    correct: "c",
 ];
 
 //Fetching the HTML elements
